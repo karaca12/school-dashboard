@@ -1,0 +1,3 @@
+[submodule "school-dashboard-backend"]
+	path = school-dashboard-backend
+	url = https://github.com/karaca12/school-dashboard-backend
